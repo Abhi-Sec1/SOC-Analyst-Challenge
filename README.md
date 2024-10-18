@@ -26,6 +26,8 @@ To develop hands-on skills and knowledge necessary for a SOC analyst role by set
 6. Set up your own command & control server.
 7. Configure and integrate your own ticketing system.
 
+I have written a detailed blog post about my journey building a security monitoring system. You can read it [here](https://medium.com/@ac243501/30-day-journey-building-a-security-monitoring-system-with-elasticsearch-kibana-05849f59ee2d).
+
 *Ref 1: Architecture Diagram*
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/38a33ebf-066b-477a-aa2c-92868ef5e086)
