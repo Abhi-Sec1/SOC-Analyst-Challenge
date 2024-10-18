@@ -1,4 +1,4 @@
-# 30-Day SOC Analyst Challenge
+#  SOC Analyst Challenge
 
 ## Objective
 To develop hands-on skills and knowledge necessary for a SOC analyst role by setting up and configuring a security monitoring environment with an emphasis on threat detection and incident response.
